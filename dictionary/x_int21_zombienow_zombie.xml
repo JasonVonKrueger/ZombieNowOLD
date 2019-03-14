@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Zombie" max_length="40" name="x_int21_zombienow_zombie" type="collection">
+        <element default="100" label="After-death health" max_length="40" name="after_death_health" type="integer"/>
+        <element default="5" label="Aggression" max_length="40" name="aggression" type="integer"/>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" reference_qual="u_is_intelsat=true^EQ" reference_qual_condition="u_is_intelsat=true^EQ" type="reference"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element default="2" label="Number of arms" max_length="40" name="number_of_arms" type="integer"/>
+        <element default="2" label="Number of legs" max_length="40" name="number_of_legs" type="integer"/>
+        <element choice="1" label="Pre-death gender" max_length="40" name="pre_death_gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="female"/>
+                <element inactive_on_update="false" label="Male" value="Male"/>
+            </choice>
+        </element>
+        <element label="Stuck" max_length="40" name="stuck" type="boolean"/>
+        <index name="index">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

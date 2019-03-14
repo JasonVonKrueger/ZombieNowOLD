@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_int21_zombienow.weapon_user" name="x_int21_zombienow.weapon_user">91dd72e3db887b0096e57b27689619a9</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>POORER_ADMIN</sys_created_by>
+        <sys_created_on>2019-03-14 01:35:26</sys_created_on>
+        <sys_id>5ddd7ea7db887b0096e57b2768961960</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>91dd72e3db887b0096e57b27689619a9</sys_name>
+        <sys_package display_value="ZombieNow" source="x_int21_zombienow">c7e7ea67db487b0096e57b276896192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZombieNow">c7e7ea67db487b0096e57b276896192f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5ddd7ea7db887b0096e57b2768961960</sys_update_name>
+        <sys_updated_by>POORER_ADMIN</sys_updated_by>
+        <sys_updated_on>2019-03-14 01:35:26</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

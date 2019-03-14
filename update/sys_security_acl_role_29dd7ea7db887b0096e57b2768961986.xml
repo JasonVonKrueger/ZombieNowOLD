@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>POORER_ADMIN</sys_created_by>
+        <sys_created_on>2019-03-14 01:35:27</sys_created_on>
+        <sys_id>29dd7ea7db887b0096e57b2768961986</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_int21_zombienow_weapon.x_int21_zombienow.weapon_user</sys_name>
+        <sys_package display_value="ZombieNow" source="x_int21_zombienow">c7e7ea67db487b0096e57b276896192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ZombieNow">c7e7ea67db487b0096e57b276896192f</sys_scope>
+        <sys_security_acl display_value="x_int21_zombienow_weapon">eddd7ea7db887b0096e57b2768961976</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_29dd7ea7db887b0096e57b2768961986</sys_update_name>
+        <sys_updated_by>POORER_ADMIN</sys_updated_by>
+        <sys_updated_on>2019-03-14 01:35:27</sys_updated_on>
+        <sys_user_role display_value="x_int21_zombienow.weapon_user" name="x_int21_zombienow.weapon_user">91dd72e3db887b0096e57b27689619a9</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Weapon" max_length="40" name="x_int21_zombienow_weapon" type="collection">
+        <element default="5" label="Condition" max_length="40" name="condition" type="integer"/>
+        <element default="5" label="Effectiveness" max_length="40" name="effectiveness" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
